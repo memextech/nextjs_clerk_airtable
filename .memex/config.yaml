@@ -1,5 +1,5 @@
 card_image: ''
-created_at: 2025-03-24 20:28:58.336421
+created_at: 2025-03-24 21:23:03.465000
 creator_id: unknown
 deployment:
   last_deployed: null
@@ -14,16 +14,16 @@ getting_started_screen_index: 0
 git:
   branch: main
   remote: origin
-  url: 'https://github.com/memextech/nextjs_clerk_airtable'
+  url: https://github.com/memextech/nextjs_clerk_airtable
 hero_image: ''
 icon: ''
-is_published: false
+is_published: true
 pills:
 - icon: ''
   label: ''
   prompt: ''
-project_id: ''
-published_at: null
+project_id: 7VgpSDidslBsBRXK862L
+published_at: 2025-03-24 21:27:07.699000
 requirements:
 - description: ''
   type: ''
@@ -40,4 +40,4 @@ tools:
   role: ''
   type: ''
   version: ''
-updated_at: 2025-03-24 20:28:58.336454
+updated_at: 2025-03-24 21:27:07.699000

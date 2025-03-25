@@ -79,7 +79,9 @@ The `.memex` directory is used by the Memex universe, a template system for proj
 7. Set up Vercel for deployment:
    - Create a new application
    - Add Environment variables
-
+   - Setup custom Install Command in project Settings/Build and Deployment/Framework Settings
+   ```bash
+   npm install --legacy-peer-deps
 ### Clone and Install
 ```bash
 git clone <repository-url>
